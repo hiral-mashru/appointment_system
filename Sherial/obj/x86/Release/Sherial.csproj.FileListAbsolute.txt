@@ -1,0 +1,8 @@
+E:\hiral\sem 6\dot net\Sherial\Sherial\bin\Release\Sherial.exe
+E:\hiral\sem 6\dot net\Sherial\Sherial\bin\Release\Sherial.pdb
+E:\hiral\sem 6\dot net\Sherial\Sherial\obj\x86\Release\Sherial.csprojResolveAssemblyReference.cache
+E:\hiral\sem 6\dot net\Sherial\Sherial\obj\x86\Release\Sherial.exe
+E:\hiral\sem 6\dot net\Sherial\Sherial\obj\x86\Release\Sherial.pdb
+E:\hiral\sem 6\dot net\Sherial\Sherial\bin\Release\Sherial.exe.config
+E:\hiral\sem 6\dot net\Sherial\Sherial\bin\Release\sherial.mdf
+E:\hiral\sem 6\dot net\Sherial\Sherial\bin\Release\sherial_log.ldf

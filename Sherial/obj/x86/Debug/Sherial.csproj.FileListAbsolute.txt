@@ -1,0 +1,12 @@
+c:\users\student\documents\visual studio 2010\Projects\Sherial\Sherial\bin\Debug\Sherial.exe
+c:\users\student\documents\visual studio 2010\Projects\Sherial\Sherial\bin\Debug\Sherial.pdb
+c:\users\student\documents\visual studio 2010\Projects\Sherial\Sherial\obj\x86\Debug\Sherial.exe
+c:\users\student\documents\visual studio 2010\Projects\Sherial\Sherial\obj\x86\Debug\Sherial.pdb
+E:\hiral\sem 6\dot net\Sherial\Sherial\obj\x86\Debug\Sherial.exe
+E:\hiral\sem 6\dot net\Sherial\Sherial\obj\x86\Debug\Sherial.pdb
+E:\hiral\sem 6\dot net\Sherial\Sherial\bin\Debug\sherial.mdf
+E:\hiral\sem 6\dot net\Sherial\Sherial\bin\Debug\sherial_log.ldf
+E:\hiral\sem 6\dot net\Sherial\Sherial\bin\Debug\Sherial.exe.config
+E:\hiral\sem 6\dot net\Sherial\Sherial\bin\Debug\Sherial.exe
+E:\hiral\sem 6\dot net\Sherial\Sherial\bin\Debug\Sherial.pdb
+E:\hiral\sem 6\dot net\Sherial\Sherial\obj\x86\Debug\Sherial.csprojResolveAssemblyReference.cache
